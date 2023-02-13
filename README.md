@@ -54,7 +54,7 @@ This course is designed for beginners who don't have any experience in comptuer 
 |Week 15|- Optimization (Objective functions, Regularization) |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 16|- Review|||
 |Week 17|**Final (in class, May 8)**|||
-<!-- <br>- [Set up your jupyter notebook environment with the command line](https://leewtai.github.io/setup/conda_and_navigator_setup.html) -->
+
 
 
 ## Logistics
