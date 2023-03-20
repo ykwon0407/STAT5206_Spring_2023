@@ -46,9 +46,9 @@ This course is designed for beginners who don't have any experience in comptuer 
 |Week 7|- NYTimes <br>- Review |||
 |Week 8|**Midterm (in class, March 6)**|||
 |Week 9|**Spring Recess NO CLASS**|||
-|Week 10|- Midterm review <br>- Regular expression ||- HW 4|
-|Week 11|- Twitter |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 12|- Interacting with APIs |- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 10|- Midterm review <br>- Data formats <br>- Regular expression 1 |||
+|Week 11|- Regular expression 2 <br>- Twitter |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 12|- Interacting with APIs |- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 (April 7, 11:59 PM)|
 |Week 13|- SQL |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 14|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 |Week 15|- Optimization (Objective functions, Regularization) |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
