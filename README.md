@@ -51,8 +51,8 @@ This course is designed for beginners who don't have any experience in comptuer 
 |Week 12|- Interacting with APIs <br>- NYC311|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 (April 7, 11:59 PM)|
 |Week 13|- SQL <br>- Internet speed |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 14|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 (April 23, 11:59 PM)|
-|Week 15|- Optimization (Objective functions, Regularization) |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 16|- Review|||
+|Week 15|- Regularization |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 16|- No class|||
 |Week 17|**Final (in class, May 8)**|||
 
 
